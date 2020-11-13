@@ -10,12 +10,14 @@ import ChangeImg from "./myComponents/ChangeImg";
 import FromPart1 from "./myComponents/FromPart1";
 import FormPart2 from "./myComponents/FormPart2";
 import FormPart3 from "./myComponents/FormPart3";
+import Select from "./myComponents/Select";
+import ArrayList from "./myComponents/ArrayList";
 
 function App() {
   return (
     <div className="App">
 
-      <FormPart3></FormPart3>
+     <ArrayList></ArrayList>
 
 
     </div>
